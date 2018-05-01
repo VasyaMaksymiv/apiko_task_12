@@ -1,0 +1,20 @@
+{
+  "name": "apiko_homework_12",
+  "version": "1.0.0",
+  "description": "Weather App",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Vasya_Maksymiv",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^5.0.1",
+    "node-fetch": "^2.1.2",
+    "yargs": "^11.0.0"
+  }
+}
